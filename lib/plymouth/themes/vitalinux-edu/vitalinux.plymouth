@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Vitalinux Edu
+Description=Ubuntu theme based on Paw theme
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/vitalinux-edu
+ScriptFile=/lib/plymouth/themes/vitalinux-edu/vitalinux-edu.script
+
+

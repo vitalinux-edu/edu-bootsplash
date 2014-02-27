@@ -1,0 +1,7 @@
+edu-bootsplash (1.0-1) unstable; urgency=low
+
+  * El tema personalizado se basa en la versión que ha hecho José Antonio Chavarría de
+    http://www.ubunturoot.com/2012/03/paw-1204-plymouth-theme.html.
+  * La herramienta que se usa en Ubuntu es plymouth.
+
+ -- José Luis Murillo García <joseluismurillogarcia@gmail.com>  Thu, 27 Feb 2014 11:34:58 +0200

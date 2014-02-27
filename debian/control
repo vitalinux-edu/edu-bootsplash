@@ -1,0 +1,16 @@
+Source: edu-bootsplash
+Section: x11
+Priority: extra
+Maintainer: José Luis Murillo García <joseluismurillogarcia@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux-edu/edu-bootsplash
+
+Package: edu-bootsplash
+Architecture: all
+Provides: edu-virtual-bootsplash, plymouth-theme
+Conflicts: edu-virtual-bootsplash
+Replaces: edu-virtual-bootsplash
+Depends: ${misc:Depends}, plymouth, plymouth-label
+Description: Customizing Ubuntu bootsplash.
+ Based in http://www.ubunturoot.com/2012/03/paw-1204-plymouth-theme.html.
