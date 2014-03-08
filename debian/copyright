@@ -6,10 +6,10 @@ Copyright: 2012-2013 Ivan Cizik
 License: GPL-3.0+
 
 Files: lib/plymouth/themes/vitalinux-edu/logo*
-Copyright: 2013 Alberto Gacías <albertogacias@gmail.com>
+Copyright: 2013 Pedro Delicado Ponce <pedroponce@gmail.com>
 License: GPL-3.0+
 
-Files: lib/plymouth/themes/vitalinux/vitalinux-edu.* debian/*
+Files: lib/plymouth/themes/vitalinux-edu/vitalinux-edu.* debian/*
 Copyright: 2013 Jose Antonio Chavarría <jachavar@gmail.com>
 License: GPL-3.0+
 

@@ -1,5 +1,5 @@
 #!/bin/sh
-# postrm script for edu-bootsplash
+# postrm script for vx-bootsplash
 #
 # see: dh_installdeb(1)
 

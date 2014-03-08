@@ -1,7 +1,21 @@
 edu-bootsplash (1.0-1) unstable; urgency=low
 
-  * El tema personalizado se basa en la versión que ha hecho José Antonio Chavarría de
+  * Inicio del archivo partiendo del vx-bootsplash de José Antonio Chavarría
+
+ -- José Luis Murillo García <joseluismurillogarcia@gmail.com>  Sat, 8 Mar 2014 11:35:31 +0200
+
+vx-bootsplash (1.1-1) unstable; urgency=low
+
+  * Se cambia el logo del tema de Plymouth (closes #1).
+  * Se añade la capacidad de paquete virtual (vx-virtual-bootsplash) para que
+    cada sabor o versión pueda personalizar este aspecto a su gusto.
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 7 Dec 2013 11:35:31 +0200
+
+vx-bootsplash (1.0-1) unstable; urgency=low
+
+  * El tema personalizado se basa en
     http://www.ubunturoot.com/2012/03/paw-1204-plymouth-theme.html.
   * La herramienta que se usa en Ubuntu es plymouth.
 
- -- José Luis Murillo García <joseluismurillogarcia@gmail.com>  Thu, 27 Feb 2014 11:34:58 +0200
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 18 May 2013 11:34:58 +0200
