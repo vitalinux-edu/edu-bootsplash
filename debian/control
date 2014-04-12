@@ -8,9 +8,9 @@ Homepage: https://github.com/vitalinux-edu/edu-bootsplash
 
 Package: edu-bootsplash
 Architecture: all
-Provides: edu-virtual-bootsplash, plymouth-theme
-Conflicts: edu-virtual-bootsplash
-Replaces: edu-virtual-bootsplash
+Provides: vx-virtual-bootsplash, plymouth-theme
+Conflicts: vx-virtual-bootsplash
+Replaces: vx-virtual-bootsplash
 Depends: ${misc:Depends}, plymouth, plymouth-label
 Description: Customizing Ubuntu bootsplash.
  Based in http://www.ubunturoot.com/2012/03/paw-1204-plymouth-theme.html.
